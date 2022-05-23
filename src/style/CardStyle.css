@@ -1,0 +1,11 @@
+body {
+  background-color: #14213d;
+}
+
+.card_container {
+  background-color: #000000;
+  -webkit-box-shadow: 10px 9px 20px -3px rgba(46,74,117,1);
+  -moz-box-shadow: 10px 9px 20px -3px rgba(46,74,117,1);
+  box-shadow: 10px 9px 20px -3px rgba(46,74,117,1);
+  color: #e5e5e5;
+}
