@@ -14,7 +14,7 @@ export const movies = [
       "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.                Written by\nJ-S-Golden",
     actors: ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SY500_CR0,0,336,500_AL_.jpg",
+      "https://nfimageservice.azureedge.net/image/fcc09a8f-c19f-4e00-b0d5-857696bde578?width=400",
   },
   {
     title: "Gudfadern",
@@ -31,7 +31,7 @@ export const movies = [
       "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen.                Written by\nJ. S. Golden",
     actors: ["Marlon Brando", "Al Pacino", "James Caan"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,352,500_AL_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
   },
   {
     title: "Gudfadern del II",
@@ -48,7 +48,7 @@ export const movies = [
       "The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.                Written by\nKeith Loh <loh@sfu.ca>",
     actors: ["Al Pacino", "Robert De Niro", "Robert Duvall"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjZiNzIxNTQtNDc5Zi00YWY1LThkMTctMDgzYjY4YjI1YmQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,351,500_AL_.jpg",
+      "https://i-viaplay-com.akamaized.net/viaplay-prod/184/640/1647935492-a0c01692384dac1191251777c47f9eda605e14b4.jpg?width=400&height=600",
   },
   {
     title: "The Dark Knight",
@@ -133,7 +133,7 @@ export const movies = [
       'The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Hobbits Frodo and Sam reach Mordor in their quest to destroy the "one ring", while Aragorn leads the forces of good against Sauron\'s evil army at the stone city of Minas Tirith.                Written by\nJwelch5742',
     actors: ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZWQ5YjMtMDE0MS00NWIzLWE1M2YtODYzYTk2OTNlYWZmXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY500_SX334_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Den gode, den onde, den fule",
@@ -167,7 +167,7 @@ export const movies = [
       "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power. When the narrator is exposed to the hidden agenda of Tyler's fight club, he must accept the awful truth that Tyler may not be who he says he is.                Written by\nRhiannon",
     actors: ["Brad Pitt", "Edward Norton", "Meat Loaf"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX290_CR0,0,290,429_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Sagan om ringen: H\u00e4rskarringen",
@@ -184,7 +184,7 @@ export const movies = [
       "An ancient Ring thought lost for centuries has been found, and through a strange twist in fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it! However he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir and his three Hobbit friends Merry, Pippin and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign!                Written by\nPaul Twomey <toomsp@hotmail.com>",
     actors: ["Elijah Wood", "Ian McKellen", "Orlando Bloom"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BNmFmZDdkODMtNzUyMy00NzhhLWFjZmEtMGMzYjNhMDA1NTBkXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY500_SX342_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Rymdimperiet sl\u00e5r tillbaka",
@@ -201,7 +201,7 @@ export const movies = [
       "Luke Skywalker, Han Solo, Princess Leia and Chewbacca face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi master's help will Luke survive when the dark side of the Force beckons him into the ultimate duel with Darth Vader.                Written by\nJwelch5742",
     actors: ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BYmViY2M2MTYtY2MzOS00YjQ1LWIzYmEtOTBiNjhlMGM0NjZjXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,322,500_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Forrest Gump",
@@ -218,7 +218,7 @@ export const movies = [
       "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.                Written by\naliw135",
     actors: ["Tom Hanks", "Robin Wright", "Gary Sinise"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,378,500_AL_.jpg",
+      "https://es.web.img3.acsta.net/pictures/15/10/13/15/12/514297.jpg",
   },
   {
     title: "Inception",
@@ -286,7 +286,7 @@ export const movies = [
       "Henry Hill might be a small time gangster, who may have taken part in a robbery with Jimmy Conway and Tommy De Vito, two other gangsters who might have set their sights a bit higher. His two partners could kill off everyone else involved in the robbery, and slowly start to think about climbing up through the hierarchy of the Mob. Henry, however, might be badly affected by his partners' success, but will he consider stooping low enough to bring about the downfall of Jimmy and Tommy?                Written by\nColin Tinto <cst@imdb.com>",
     actors: ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BNThjMzczMjctZmIwOC00NTQ4LWJhZWItZDdhNTk5ZTdiMWFlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,334,500_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Matrix",
@@ -320,7 +320,7 @@ export const movies = [
       "A veteran samurai, who has fallen on hard times, answers a village's request for protection from bandits. He gathers 6 other samurai to help him, and they teach the townspeople how to defend themselves, and they supply the samurai with three small meals a day. The film culminates in a giant battle when 40 bandits attack the village.                Written by\nColin Tinto <cst@imdb.com>",
     actors: ["Toshir\u00f4 Mifune", "Takashi Shimura", "Keiko Tsushima"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MDY1MjU5MF5BMl5BanBnXkFtZTgwNDM2OTE4MzE@._V1_SY500_CR0,0,356,500_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Stj\u00e4rnornas krig",
@@ -337,7 +337,7 @@ export const movies = [
       "The Imperial Forces, under orders from cruel Darth Vader, hold Princess Leia hostage in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker and Han Solo, captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 and C-3PO to rescue the beautiful princess, help the Rebel Alliance and restore freedom and justice to the Galaxy.                Written by\nJwelch5742",
     actors: ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ2OTk4N2QtOGQwNy00MmI3LWEwNmEtOTk0OTY3NDk2MGJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY500_CR0,0,332,500_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Guds stad",
@@ -422,7 +422,7 @@ export const movies = [
       "Following a truck hijack in New York, five conmen are arrested and brought together for questioning. As none of them are guilty, they plan a revenge operation against the police. The operation goes well, but then the influence of a legendary mastermind criminal called Keyser S\u00f6ze is felt. It becomes clear that each one of them has wronged S\u00f6ze at some point and must pay back now. The payback job leaves 27 men dead in a boat explosion, but the real question arises now: Who actually is Keyser S\u00f6ze?                Written by\nSoumitra",
     actors: ["Kevin Spacey", "Gabriel Byrne", "Chazz Palminteri"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@._V1_SY500_CR0,0,333,500_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Livet \u00e4r underbart",
@@ -507,7 +507,7 @@ export const movies = [
       "Story of a young woman, Mrs. McBain, who moves from New Orleans to frontier Utah, on the very edge of the American West. She arrives to find her new husband and family slaughtered, but by whom? The prime suspect, coffee-lover Cheyenne, befriends her and offers to go after the real killer, assassin gang leader Frank, in her honor. He is accompanied by Harmonica, a man already on a quest to get even.                Written by\nDrGoodBeat / edited by statmanjeff",
     actors: ["Henry Fonda", "Charles Bronson", "Claudia Cardinale"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BYjFiOTlmMzgtOGZlYi00NjY0LThmMzEtNmQ0OTgxNGViOTZmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY500_CR0,0,329,500_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "American History X",
@@ -524,7 +524,7 @@ export const movies = [
       "Derek Vineyard is paroled after serving 3 years in prison for brutally killing two black men who tried to break into/steal his truck. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.                Written by\nNitesh D.(nmxpa7@msn.com)",
     actors: ["Edward Norton", "Edward Furlong", "Beverly D'Angelo"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BY2E2MWU5ZDktOTQ0OS00NGIzLTg4YTgtYjFhNTRlMjA1NzFjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY500_SX340_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Interstellar",
@@ -575,7 +575,7 @@ export const movies = [
       "Phoenix officeworker Marion Crane is fed up with the way life has treated her. She has to meet her lover Sam in lunch breaks and they cannot get married because Sam has to give most of his money away in alimony. One Friday Marion is trusted to bank $40,000 by her employer. Seeing the opportunity to take the money and start a new life, Marion leaves town and heads towards Sam's California store. Tired after the long drive and caught in a storm, she gets off the main highway and pulls into The Bates Motel. The motel is managed by a quiet young man called Norman who seems to be dominated by his mother.                Written by\nCol Needham <col@imdb.com>",
     actors: ["Anthony Perkins", "Janet Leigh", "Vera Miles"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,331,500_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Stadens ljus",
@@ -592,7 +592,7 @@ export const movies = [
       "A tramp falls in love with a beautiful blind girl. Her family is in financial trouble. The tramp's on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.                Written by\nJohn J. Magee <magee@helix.mgh.harvard.edu>",
     actors: ["Charles Chaplin", "Virginia Cherrill", "Florence Lee"],
     posterurl:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BZDRjMmI3ZjgtMGE3Mi00NjY5LTg0NWMtMmU3YzgyMjhmMjIzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY500_CR0,0,330,500_AL_.jpg",
+      "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/127803/127803_600x870.jpg",
   },
   {
     title: "Den gr\u00f6na milen",

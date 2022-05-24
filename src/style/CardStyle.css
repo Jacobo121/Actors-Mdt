@@ -8,4 +8,5 @@ body {
   -moz-box-shadow: 10px 9px 20px -3px rgba(46,74,117,1);
   box-shadow: 10px 9px 20px -3px rgba(46,74,117,1);
   color: #e5e5e5;
+  margin: 25px;
 }
